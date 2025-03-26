@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace Product_Entities.Products.Interface
 {
-    public interface IProductRepository  // Changed to public
+    public interface IProductRepository
     {
         Task<ProductEntity?> GetByIdAsync(long productId);
         Task<IEnumerable<ProductEntity>> GetAllAsync();

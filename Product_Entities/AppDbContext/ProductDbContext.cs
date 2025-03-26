@@ -20,7 +20,7 @@ namespace Product_Entities.AppDbContext
         {
             modelBuilder.Entity<ProductEntity>()
                 .Property(p => p.Price)
-                .HasPrecision(18, 2)  // 18 total digits, 2 decimal places
+                .HasPrecision(18, 2)
                 .IsRequired();
         }
     }
