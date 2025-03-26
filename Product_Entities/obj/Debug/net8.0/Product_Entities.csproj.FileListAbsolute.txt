@@ -7,6 +7,7 @@ D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\Product_E
 D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\Product_Entities.AssemblyInfoInputs.cache
 D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\Product_Entities.AssemblyInfo.cs
 D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\Product_Entities.csproj.CoreCompileInputs.cache
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\Product_Entities.sourcelink.json
 D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\Product_Entities.dll
 D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\refint\Product_Entities.dll
 D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Debug\net8.0\Product_Entities.pdb

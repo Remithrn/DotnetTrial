@@ -129,6 +129,7 @@ D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\Products_API.
 D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\Products_API.csproj.CoreCompileInputs.cache
 D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\Products_API.MvcApplicationPartsAssemblyInfo.cs
 D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\Products_API.MvcApplicationPartsAssemblyInfo.cache
+D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\Products_API.sourcelink.json
 D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\staticwebassets.build.json
 D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\staticwebassets.development.json
 D:\dummyprojects\csharp\Products_API\Products_API\obj\Debug\net8.0\staticwebassets\msbuild.Products_API.Microsoft.AspNetCore.StaticWebAssets.props
