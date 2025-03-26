@@ -1,0 +1,15 @@
+D:\dummyprojects\csharp\Products_API\Product_Entities\bin\Release\net8.0\Product_Entities.deps.json
+D:\dummyprojects\csharp\Products_API\Product_Entities\bin\Release\net8.0\Product_Entities.runtimeconfig.json
+D:\dummyprojects\csharp\Products_API\Product_Entities\bin\Release\net8.0\Product_Entities.dll
+D:\dummyprojects\csharp\Products_API\Product_Entities\bin\Release\net8.0\Product_Entities.pdb
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.csproj.AssemblyReference.cache
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.AssemblyInfoInputs.cache
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.AssemblyInfo.cs
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.csproj.CoreCompileInputs.cache
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.sourcelink.json
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.dll
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\refint\Product_Entities.dll
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.pdb
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\Product_Entities.genruntimeconfig.cache
+D:\dummyprojects\csharp\Products_API\Product_Entities\obj\Release\net8.0\ref\Product_Entities.dll
